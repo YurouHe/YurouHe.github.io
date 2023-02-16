@@ -11,8 +11,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Yurou He"
-description:	       "a personal webpage"
-author:              "Yurou He"
+description:	       "Ph.D. in Applied Economics and Management at Cornell Dyson"
+author:              ""
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
