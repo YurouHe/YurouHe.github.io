@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Teaching Experiences
+title: Teaching
 permalink: /teaching
 ---
-AEM 6850: Empirical Methods for Applied Economists, Teaching Assistant (Fall 2022, Cornell) - 4.9/5.0
 
-CICER Summer Program – Econ Track (Coding for Applied Economists / Behavioral Economics / Applied Econometrics), Teaching Assistant (Summer 2022, Cornell)
+## Cornell University
+
+AEM 6850: Empirical Methods for Applied Economists, Teaching Assistant (Fall 2022) - 4.9/5.0
+
+CICER Summer Program – Econ Track (Coding for Applied Economists / Behavioral Economics / Applied Econometrics), Teaching Assistant (Summer 2022)
