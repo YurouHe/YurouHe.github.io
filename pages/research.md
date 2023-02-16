@@ -2,7 +2,7 @@
 layout: category
 title: Research
 category: page
-# permalink: /sample-posts
+permalink: /research
 ---
 
 ## Working Papers
