@@ -12,4 +12,4 @@ permalink: /research
 
 ### Publications
 
-#### [A vulnerability index for priority targeting of agricultural crops under a changing climate](https://link.springer.com/article/10.1007/s10584-021-03135-8)
+#### ["A vulnerability index for priority targeting of agricultural crops under a changing climate,"](https://link.springer.com/article/10.1007/s10584-021-03135-8) with Calum G. Turvey, Jiajun Du, and Ariel Ortiz-Bobea.
