@@ -1,8 +1,7 @@
 ---
-layout: category
-title: Teaching
-category: page
-# permalink: /teaching
+layout: page
+title: Teaching Experiences
+permalink: /teaching
 ---
 AEM 6850: Empirical Methods for Applied Economists, Teaching Assistant (Fall 2022, Cornell) - 4.9/5.0
 
