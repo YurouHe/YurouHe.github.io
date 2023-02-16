@@ -11,4 +11,4 @@ My research interests are environmental and resource economics and climate chang
 
 You can find my [CV](https://www.dropbox.com/s/v6el1o7klibgjp6/Curriculum_Vitae_hyr.pdf?dl=0) here.
 
-I can be contacted at [yh878@cornell.edu](mailto:yh878@cornell.edu).
+I can be contacted at [yh878@cornell.edu](mailto:yh878@cornell.edu). 
