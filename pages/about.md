@@ -1,7 +1,13 @@
 ---
 layout: page
-title: About
+title: Home
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Hello, welcome! I am a Ph.D. student of Applied Economics and Management at Dyson School of Cornell University.
+
+My areas of specialization are environmental and resource economics and climate change.
+
+You can find my CV here. 
+
+I can be contacted at yh878@cornell.edu.
