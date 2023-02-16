@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Home
+title: Yurou He
 permalink: /home
-image: yurouhe.jpg
+image: beach.jpg
 ---
 
 Hello, welcome! I am a Ph.D. student of Applied Economics and Management at Dyson School of Cornell University.
